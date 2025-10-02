@@ -1,0 +1,9 @@
+node_modules/
+/node_modules
+/airdrop/node_modules
+/airdrop/dist
+/airdrop/.env
+dev-wallet.json
+*wallet.json
+dist/
+.env
